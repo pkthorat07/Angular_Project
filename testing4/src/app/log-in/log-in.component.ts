@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class LogInComponent {
   firtname='LogIn Form';
+  myname="Pavan";
 }
-myname="Pavan";
+
