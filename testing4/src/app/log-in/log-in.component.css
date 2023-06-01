@@ -1,8 +1,40 @@
+
+
+.bckbody{
+    background-color: coral;
+}
+.heading{
+    color: blueviolet;
+}
 .logpa{
-    border: 1px solid black;
+    border: none;
     width: 250px;
-    height: 250px;
-    margin: auto;
+    height: 300px;
+    position: absolute;
+    left: 800px;
     text-align: center;
-    background-color: rgb(180, 225, 226);
+    background-color: aquamarine;
+}
+.logbttn{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(172, 117, 223);
+    border: none;
+}
+.signbttn{
+    background-color:green;
+    width: 150px;
+    height: 25px;
+    border: none;
+
+}
+.inputbox{
+    width: 230px;
+    height: 25px;
+}
+.ntbook{
+    color: aquamarine;
+}
+.border{
+    height: 100px;
 }
