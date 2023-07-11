@@ -1,10 +1,9 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { SingUpComponent } from './sing-up/sing-up.component';
 
 const routes: Routes = [
-  {
-    path:/cre
-  }
+  
 ];
 
 @NgModule({
@@ -12,3 +11,4 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
+
